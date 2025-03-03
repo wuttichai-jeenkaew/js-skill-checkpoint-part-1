@@ -19,7 +19,7 @@ const products = [
 
 const promotionCode = "SALE20";
 // เริ่มเขียนโค้ดตรงนี้
-console.log(calculateTotalPrice(products, "SALE20"));
+console.log(calculateTotalPrice(products, promotionCode));
 
 //funtion
 //loop
